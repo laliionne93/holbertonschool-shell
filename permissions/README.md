@@ -12,3 +12,4 @@ This folder contains shell scripts about Linux permissions, users and groups.
 - 5-execute: adds execute permission to the owner of the file hello.
 - 6-multiple_permissions: adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 - 7-everybody: adds execution permission to the owner, the group owner and the other users, to the file hello.
+- 8-James_Bond: sets the permissions of the file hello to no permission for the owner and the group, and all permissions for the other users.
