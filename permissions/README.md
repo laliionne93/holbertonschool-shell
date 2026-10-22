@@ -17,4 +17,4 @@ This folder contains shell scripts about Linux permissions, users and groups.
 - 10-mirror_permissions: sets the mode of the file hello the same as the mode of the file olleh.
 - 10-mirror_permissions: sets the mode of the file hello the same as the mode of the file olleh.
 - 11-directories_permissions: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
-- 12-directory_permissions: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+- 12-directory_permissions: creates a directory called my_dir with permissions 751 in the working directory.
