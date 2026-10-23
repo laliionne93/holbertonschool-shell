@@ -32,3 +32,4 @@ This folder contains shell scripts about input/output redirections and filters.
 - 23-empty_casks: finds all empty files and directories in the current directory and all sub-directories.
 - 24-gifs: lists all the .gif files (without extension) in the current directory and all its sub-directories, sorted case-insensitively.
 - 25-acrostic: decodes acrostics that use the first letter of each line.
+- 26-the_biggest_fan: parses web server logs in TSV format and displays the 11 hosts or IP addresses which did the most requests.
