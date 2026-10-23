@@ -19,3 +19,4 @@ This folder contains shell scripts about input/output redirections and filters.
 - 12-newest_files: displays the 10 newest files in the current directory, one per line, from the newest to the oldest.
 - 13-unique: takes a list of words as input and prints only the words that appear exactly once, sorted.
 - 14-findthatword: displays the lines containing the pattern root from the file /etc/passwd.
+- 15-countthatword: displays the number of lines that contain the pattern bin in the file /etc/passwd.
