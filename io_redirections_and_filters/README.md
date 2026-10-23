@@ -30,3 +30,4 @@ This folder contains shell scripts about input/output redirections and filters.
 - 22-users_and_homes: displays all users and their home directories, sorted by users.
 - 23-empty_casks: finds all empty files and directories in the current directory and all sub-directories.
 - 23-empty_casks: finds all empty files and directories in the current directory and all sub-directories.
+- 24-gifs: lists all the .gif files (without extension) in the current directory and all its sub-directories, sorted case-insensitively.
