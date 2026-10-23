@@ -29,3 +29,4 @@ This folder contains shell scripts about input/output redirections and filters.
 - 21-reverse: reverses its input.
 - 22-users_and_homes: displays all users and their home directories, sorted by users.
 - 23-empty_casks: finds all empty files and directories in the current directory and all sub-directories.
+- 23-empty_casks: finds all empty files and directories in the current directory and all sub-directories.
