@@ -9,3 +9,4 @@ This folder contains shell scripts about shell init files, variables and expansi
 - 2-path: adds /action to the PATH, as the last directory the shell looks into.
 - 3-paths: counts the number of directories in the PATH.
 - 4-global_variables: lists environment variables.
+- 5-local_variables: lists all local variables and environment variables, and functions.
